@@ -1,6 +1,6 @@
 # 👨‍💻Cesar Baggio
 
-**`Fullstack Developer`**
+**`Software Engineer | Developer`**
 
 Passionate about building scalable, high-impact systems that transform ideas into robust technological solutions.
 Specialist in fullstack development with JavaScript/TypeScript, creating modern applications using React, Next.js, Node.js, and Express. My expertise extends to Python for automation, data science, and robust backend development with FastAPI, enabling a versatile and comprehensive approach to any project.

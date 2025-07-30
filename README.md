@@ -1,12 +1,12 @@
 # 👨‍💻Cesar Baggio
 
-**`Backend Developer`**
+**`Fullstack Developer`**
 
-I am a developer with a passion for building efficient and high-impact systems. My expertise focuses on developing robust and scalable APIs using Python and FastAPI, especially in cloud environments like AWS with serverless architecture.
-
-I have hands-on experience with relational and NoSQL databases, containerization with Docker, and CI/CD utilizing Azure DevOps. I apply best practices for secure software development, unit and integration testing, and clean architecture with DDD (Domain-Driven Design) and Design Patterns.
-
-I am passionate about end-to-end product development, from requirements gathering to final delivery, always collaborating effectively with cross-functional teams. I am fluent in English and Portuguese, and have advanced proficiency in Spanish. Always ready to deliver comprehensive technology solutions that add real business value.
+Passionate about building scalable, high-impact systems that transform ideas into robust technological solutions.
+Specialist in fullstack development with JavaScript/TypeScript, creating modern applications using React, Next.js, Node.js, and Express. My expertise extends to Python for automation, data science, and robust backend development with FastAPI, enabling a versatile and comprehensive approach to any project.
+In infrastructure, I have hands-on experience with AWS (RDS, Lambda, SNS, SQS, S3), implementing containerization with Docker and CI/CD pipelines through Azure DevOps. I work efficiently with relational databases like Oracle, MySQL, and PostgreSQL, as well as NoSQL solutions (MongoDB, DynamoDB) in both cloud and on-premises environments.
+Expertise in data analysis, performing extraction, manipulation, and visualization using Python (Numpy, Pandas, Matplotlib) and Power BI to create efficient data pipelines, advanced modeling, and strategic analytics with DAX.
+Fluent in English and Portuguese with advanced proficiency in Spanish.
 ### 🤖 Languages & Technologies
 
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>

@@ -1,41 +1,60 @@
-# 👨‍💻Cesar Baggio
+# 👋 Olá, eu sou o Cesar Baggio  
 
-**`Software Engineer | Developer`**
+🚀 **Software Engineer | Python & Back-End | Data Automation & DevOps**  
+💡 Apaixonado por transformar dados em soluções escaláveis e inteligentes.  
 
-Passionate about building scalable, high-impact systems that transform ideas into robust technological solutions.
-Specialist in fullstack development with JavaScript/TypeScript, creating modern applications using React, Next.js, Node.js, and Express. My expertise extends to Python for automation, data science, and robust backend development with FastAPI, enabling a versatile and comprehensive approach to any project.
-In infrastructure, I have hands-on experience with AWS (RDS, Lambda, SNS, SQS, S3), implementing containerization with Docker and CI/CD pipelines through Azure DevOps. I work efficiently with relational databases like Oracle, MySQL, and PostgreSQL, as well as NoSQL solutions (MongoDB, DynamoDB) in both cloud and on-premises environments.
-Expertise in data analysis, performing extraction, manipulation, and visualization using Python (Numpy, Pandas, Matplotlib) and Power BI to create efficient data pipelines, advanced modeling, and strategic analytics with DAX.
-Fluent in English and Portuguese with advanced proficiency in Spanish.
-### 🤖 Languages & Technologies
+---
 
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></code>
+## 🛠️ Tecnologias & Ferramentas
 
- 
-  <p><strong>Frameworks/Libraries:</strong></p>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" title="Flask"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/></code>
- 
- 
- <p><strong>Cloud Services (AWS):</strong></p>
- </code> <code><img height="30" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB"/></code>
-<p><strong>Databases:</strong></p>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server"/></code>
+**Back-End & Automação**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
 
-  
-  <p><strong>Tools & Others:</strong></p>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira"/></code>
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)  
+
+**Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+**Data Analytics**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
+
+---
+
+## 📂 Projetos em Destaque  
+
+🔹 [**Automação de Relatórios Financeiros**](#) – Scripts em Python para automação de relatórios de contratos futuros.  
+🔹 [**ETL de Dados de Comércio Exterior**](#) – Pipeline de dados para precificação e análises de importação/exportação.  
+🔹 [**API REST com FastAPI**](#) – Back-end escalável para manipulação de dados em tempo real.  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbaggior&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbaggior&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Idiomas  
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: Fluente  
+- 🇪🇸 Espanhol: Avançado  
+
+---
+
+📫 **Entre em contato comigo:**  
+[LinkedIn](https://www.linkedin.com/in/cesarbaggio/) | [E-mail](cesar.baggioribeiro@gmail.com)  
+
   <code><img height="30" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/></code>
 </div>

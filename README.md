@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Cesar Baggio  
+# Cesar Baggio  
 
 🚀 **Software Engineer | Python & Back-End | Data Automation & DevOps**  
 💡 Apaixonado por transformar dados em soluções escaláveis e inteligentes.  

@@ -56,5 +56,4 @@
 📫 **Entre em contato comigo:**  
 [LinkedIn](https://www.linkedin.com/in/cesarbaggio/) | [E-mail](cesar.baggioribeiro@gmail.com)  
 
-  <code><img height="30" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/></code>
-</div>
+

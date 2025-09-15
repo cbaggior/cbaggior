@@ -31,14 +31,6 @@
 
 ---
 
-## 📂 Projetos em Destaque  
-
-🔹 [**Automação de Relatórios Financeiros**](#) – Scripts em Python para automação de relatórios de contratos futuros.  
-🔹 [**ETL de Dados de Comércio Exterior**](#) – Pipeline de dados para precificação e análises de importação/exportação.  
-🔹 [**API REST com FastAPI**](#) – Back-end escalável para manipulação de dados em tempo real.  
-
----
-
 ## 📊 Estatísticas do GitHub  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbaggior&layout=compact&theme=radical)  

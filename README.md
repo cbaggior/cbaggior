@@ -37,12 +37,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbaggior&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 💡 Sobre mim
 - 🌎 Atuo no desenvolvimento de soluções **Fullstack** com foco em **automação e inteligência de dados**.  
 - ⚡ Experiência em **pipelines de dados, integrações, APIs e workflows inteligentes**.  

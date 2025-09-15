@@ -1,6 +1,6 @@
 # Cesar Baggio  
 
-🚀 **Software Engineer | Python & Back-End | Data Automation & DevOps**  
+🚀 **Fullstack Developer | Python & Back-End | Data Automation & DevOps**  
 💡 Apaixonado por transformar dados em soluções escaláveis e inteligentes.  
 
 ---
